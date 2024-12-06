@@ -71,7 +71,7 @@ src/
 1. **Clone the magic:**
 
    ```bash
-   git clone <https://github.com/xZegAs/weather-app-route.git>
+   git clone https://github.com/xZegAs/weather-app-route.git
    ```
 
 2. **Enter the project:**
