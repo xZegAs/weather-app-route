@@ -59,16 +59,25 @@ Experience the app in action: [Weather Forecast App](https://weatherforecastappx
 ## 📁 Project Structure
 
 ```bash
-src/
-├── js/
-│   ├── api/           # 🌐 API integration
-│   ├── components/    # 🧩 UI components
-│   ├── services/      # ⚙️ Core services
-│   ├── utils/         # 🛠️ Utility functions
-│   ├── main.js        # 📱 Main application
-│   └── config.js      # ⚙️ Configuration
-├── index.html         # 📄 Main HTML file
-└── style.css          # 🎨 Styles
+├── css/                          # 🎨 Styling files
+│   ├── all.min.css               # Font Awesome styles
+│   ├── bootstrap.min.css         # Bootstrap framework
+│   └── style.css                 # Custom styles
+├── js/                           # 📜 JavaScript files
+│   ├── api/                      # 🌐 API integration
+│   │   └── weatherApi.js
+│   ├── components/               # 🧩 UI components
+│   │   ├── SearchBar.js
+│   │   └── WeatherDisplay.js
+│   ├── services/                 # ⚙️ Core services
+│   │   └── GeolocationService.js
+│   ├── utils/                    # 🛠️ Utility functions
+│   │   └── dateUtils.js
+│   ├── bootstrap.bundle.min.js
+│   ├── config.js                 # Configuration
+│   └── main.js                   # Entry point
+├── webfonts/                     # 🔤 Font files
+└── index.html                    # 📄 Main HTML file
 ```
 
 ## 🚀 Quick Start
@@ -91,7 +100,7 @@ src/
    npm install
    ```
 
-4. **Set up your weather powers** - Create `src/js/config.js`:
+4. **Set up your weather powers** - Create `js/config.js`:
 
    ```javascript
    export const config = {
