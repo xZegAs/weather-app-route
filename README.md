@@ -65,10 +65,10 @@ src/
 │   ├── components/    # 🧩 UI components
 │   ├── services/      # ⚙️ Core services
 │   ├── utils/         # 🛠️ Utility functions
-│   ├── app.js         # 📱 Main application
+│   ├── main.js        # 📱 Main application
 │   └── config.js      # ⚙️ Configuration
 ├── index.html         # 📄 Main HTML file
-└── style.css         # 🎨 Styles
+└── style.css          # 🎨 Styles
 ```
 
 ## 🚀 Quick Start
