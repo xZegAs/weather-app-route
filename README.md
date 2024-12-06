@@ -6,6 +6,7 @@
 
 <div align="center">
 
+[![Live Demo](https://img.shields.io/badge/LIVE-DEMO-brightgreen.svg)](https://weatherforecastappxzegas.netlify.app/)
 [![Made with Love](https://img.shields.io/badge/Made%20with-Love-red.svg)](https://github.com/xZegAs)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)](https://www.javascript.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -29,6 +30,10 @@
 - 💧 Humidity levels
 - 🌧️ Precipitation chances
 - 🎭 Weather conditions with beautiful icons
+
+## 🚀 Live Demo
+
+Experience the app in action: [Weather Forecast App](https://weatherforecastappxzegas.netlify.app/)
 
 ### Try These Features:
 
