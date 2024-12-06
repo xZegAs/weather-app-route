@@ -91,7 +91,7 @@ Experience the app in action: [Weather Forecast App](https://weatherforecastappx
 2. **Enter the project:**
 
    ```bash
-   cd weather-forecast
+   cd weather-app-route
    ```
 
 3. **Install dependencies:**
