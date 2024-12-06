@@ -2,7 +2,7 @@
 
 > Stay ahead of the weather with our beautiful, real-time forecast application!
 
-![Weather Forecast App](https://imgur.com/QMlNXad)
+![Weather Forecast App](https://i.imgur.com/QMlNXad.png)
 
 <div align="center">
 
